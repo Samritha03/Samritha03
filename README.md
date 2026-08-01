@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A4552,50:088395,100:05BFDB&height=220&section=header&text=Samritha%20Aadhi%20Ravikumar&fontSize=36&fontColor=333333&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20ML%2FAI%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A4552,50:088395,100:05BFDB&height=220&section=header&text=Samritha%20Aadhi%20Ravikumar&fontSize=36&fontColor=333333&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20AI%2FML%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%">
 
 <p align="center">
 <em>Building ML systems that survive contact with production</em>
@@ -88,7 +88,7 @@
 <td width="33%" valign="top">
 
 
-#### ⚾Currently Building
+#### ⚾ Currently Building
 Focused on real-time serving constraints, not just backtest performance. 
 Modeling meets production systems.
 
