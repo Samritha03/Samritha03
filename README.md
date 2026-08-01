@@ -114,26 +114,21 @@ In-progress: a live win-probability model for baseball, built to hold up under r
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Samritha03&show_icons=true&hide_border=true&count_private=true&title_color=05BFDB&icon_color=05BFDB&text_color=E9FBF8&bg_color=161B22">
-<img src="https://github-readme-stats.vercel.app/api?username=Samritha03&show_icons=true&hide_border=true&count_private=true&title_color=0A4552&icon_color=0A4552&text_color=0A4552&bg_color=F3F8F9" alt="GitHub Stats" height="150">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Samritha03&layout=compact&hide_border=true&title_color=05BFDB&text_color=E9FBF8&bg_color=161B22">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samritha03&layout=compact&hide_border=true&title_color=0A4552&text_color=0A4552&bg_color=F3F8F9" alt="Top Languages" height="150">
-</picture>
-
-<picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Samritha03&hide_border=true&background=161B22&ring=05BFDB&fire=05BFDB&currStreakLabel=05BFDB&sideLabels=E9FBF8&currStreakNum=E9FBF8&sideNums=E9FBF8&dates=E9FBF8">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samritha03&hide_border=true&background=F3F8F9&ring=0A4552&fire=0A4552&currStreakLabel=0A4552&sideLabels=0A4552&currStreakNum=0A4552&sideNums=0A4552&dates=0A4552" alt="GitHub Streak">
 </picture>
 
-<sub><strong>Samritha Aadhi Ravikumar's Contribution Graph</strong></sub>
+<br><br>
+
+<sub><strong>Samritha's Contribution</strong></sub>
 <br><br>
 <img src="https://ghchart.rshah.org/088395/Samritha03" width="100%" alt="Contribution Graph">
 <br>
 <sub>Less → More</sub>
 
 </div>
+
+<sub><em>Note: GitHub strips custom CSS from rendered READMEs, so the live calendar uses ghchart's teal-tinted rendering (real contribution data) rather than a pixel-exact recolored GitHub grid with month/day labels — that level of custom styling isn't achievable in a static README image.</em></sub>
 
 <br>
 
