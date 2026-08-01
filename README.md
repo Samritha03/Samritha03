@@ -18,11 +18,13 @@
 
 <br>
 
-## 🛠️&nbsp; Technical Stack
+### 🛠️&nbsp; Technical Stack
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="180">
 
 **Languages**
 <br><br>
@@ -31,18 +33,21 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="180">
 
-**ML / Modeling**
+**ML/Modeling**
 <br><br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"><br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"><br>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"><br>
 <img src="https://img.shields.io/badge/Model%20Evaluation-0A4552?style=for-the-badge" alt="Model Evaluation"><br>
-<img src="https://img.shields.io/badge/Transfer%20Learning-088395?style=for-the-badge" alt="Transfer Learning">
+<img src="https://img.shields.io/badge/Transfer%20Learning-088395?style=for-the-badge" alt="Transfer Learning"><br>
+<img src="https://img.shields.io/badge/Hyperparameter%20Tuning-0A4552?style=for-the-badge" alt="Hyperparameter Tuning"><br>
+<img src="https://img.shields.io/badge/Feature%20Engineering-088395?style=for-the-badge" alt="Feature Engineering"><br>
+<img src="https://img.shields.io/badge/Time%20Series%20Forecasting-0A4552?style=for-the-badge" alt="Time Series Forecasting">
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="180">
 
 **GenAI**
 <br><br>
@@ -52,64 +57,72 @@
 <img src="https://img.shields.io/badge/RAG-05BFDB?style=for-the-badge" alt="RAG"><br>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"><br>
 <img src="https://img.shields.io/badge/Fine--Tuning-0A4552?style=for-the-badge" alt="Fine-Tuning"><br>
-<img src="https://img.shields.io/badge/AI%20Agents-088395?style=for-the-badge" alt="AI Agents">
+<img src="https://img.shields.io/badge/AI%20Agents-088395?style=for-the-badge" alt="AI Agents"><br>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-05BFDB?style=for-the-badge" alt="Prompt Engineering">
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="180">
 
-**Deployment / Cloud**
+**Deployment/Cloud**
 <br><br>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"><br>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"><br>
-<img src="https://img.shields.io/badge/Model%20Deployment-0A4552?style=for-the-badge" alt="Model Deployment">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"><br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"><br>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br>
 
-## 📌&nbsp; Pinned Repos
+### 📌&nbsp; Pinned Repos
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-### 🎙️ match-commentary-ai
-Converts raw match footage into human-like commentary by fusing vision models with language generation — multilingual audio output shipped end to end. Cut manual commentary production time by **80%**.
 
-<sub>Computer Vision · LLMs · Text-to-Speech</sub>
-
-[**View repo →**](#)
-
-</td>
-<td width="33%" valign="top">
-
-### ⚡ realtime-anomaly-pipeline
-Streaming pipeline processing **1.2M+ events/day** at sub-second latency — built to prove a model can survive real-world scale, not just a notebook. Custom detection logic cut false alerts by **25%**.
-
-<sub>Streaming Data · Low Latency · Production ML</sub>
-
-[**View repo →**](#)
-
-</td>
-<td width="33%" valign="top">
-
-### ⚾ win-probability-engine
-In-progress: a live win-probability model for baseball, built to hold up under real-time serving constraints rather than just backtest well. Modeling meets production systems.
+#### ⚾Currently Building
+Focused on real-time serving constraints, not just backtest performance. 
+Modeling meets production systems.
 
 <sub>Time-Series · Real-Time Inference · WIP</sub>
 
 [**View repo →**](#)
 
 </td>
+<td width="33%" valign="top">
+
+#### 📡 Epidemic Engine
+Streaming pipeline processing **1.2M+ events/day** at sub-second latency built to prove a model can survive real-world scale, not just a notebook. Custom detection logic cut false alerts by **25%**.
+
+<sub>Streaming Data · Low Latency · Production ML</sub>
+
+[**View repo →**](https://github.com/Samritha03/Epidemic-Engine-Real-Time-Event-Enrichment-Risk-Analytics)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🎙️ Match Commentary AI
+Converts raw match footage into human-like commentary by fusing vision models with language generation multilingual audio output shipped end to end. Cut manual commentary production time by **80%**.
+
+<sub>Computer Vision · LLMs · Text-to-Speech</sub>
+
+[**View repo →**](https://github.com/Samritha03/AI-Powered-Cricket-Commentary-Generation)
+
+</td>
 </tr>
 </table>
 
 <br>
 
-### GitHub Activity
+### 📈&nbsp; GitHub Activity
 
 <div align="center">
 
@@ -124,11 +137,15 @@ In-progress: a live win-probability model for baseball, built to hold up under r
 <br><br>
 <img src="https://ghchart.rshah.org/088395/Samritha03" width="100%" alt="Contribution Graph">
 <br>
-<sub>Less → More</sub>
+<sub>Less</sub>
+<img src="https://img.shields.io/badge/-%20-EBF3F4?style=flat-square&labelColor=EBF3F4" width="11" height="11" alt="">
+<img src="https://img.shields.io/badge/-%20-B8DCE0?style=flat-square&labelColor=B8DCE0" width="11" height="11" alt="">
+<img src="https://img.shields.io/badge/-%20-7BC0C9?style=flat-square&labelColor=7BC0C9" width="11" height="11" alt="">
+<img src="https://img.shields.io/badge/-%20-3D97A5?style=flat-square&labelColor=3D97A5" width="11" height="11" alt="">
+<img src="https://img.shields.io/badge/-%20-0A4552?style=flat-square&labelColor=0A4552" width="11" height="11" alt="">
+<sub>More</sub>
 
 </div>
-
-<sub><em>Note: GitHub strips custom CSS from rendered READMEs, so the live calendar uses ghchart's teal-tinted rendering (real contribution data) rather than a pixel-exact recolored GitHub grid with month/day labels — that level of custom styling isn't achievable in a static README image.</em></sub>
 
 <br>
 
@@ -144,5 +161,5 @@ In-progress: a live win-probability model for baseball, built to hold up under r
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05BFDB,50:088395,100:0A4552&height=120&section=footer" width="100%">
 
 <div align="center">
-<sub>Thanks for stopping by.</sub>
+<sub>Thanks for stopping by. If you're working on something interesting, let's talk 🤝🏻</sub>
 </div>
