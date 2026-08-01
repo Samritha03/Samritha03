@@ -151,6 +151,8 @@ Converts raw match footage into human-like commentary by fusing vision models wi
 
 <div align="center">
 
+##### 📬 Let's Connect
+
 <a href="mailto:samritha03102001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/samritha-ravikumar-95712624b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
@@ -161,5 +163,7 @@ Converts raw match footage into human-like commentary by fusing vision models wi
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05BFDB,50:088395,100:0A4552&height=120&section=footer" width="100%">
 
 <div align="center">
-<sub>Thanks for stopping by. If you're working on something interesting, let's talk 🤝🏻</sub>
+<sub>Thanks for stopping by. If you're working on something interesting, let's talk!</sub>
+
+  <sub>Open to collaborating on RAG pipelines, AI agents, ML systems, or open-source projects 🤝🏻</sub>
 </div>
