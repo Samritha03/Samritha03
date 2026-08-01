@@ -81,77 +81,9 @@
 
 <br>
 
-### 📌&nbsp; Pinned Repos
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-
-#### ⚾ Currently Building
-Focused on real-time serving constraints, not just backtest performance. 
-Modeling meets production systems.
-
-<sub>Time-Series · Real-Time Inference · WIP</sub>
-
-[**View repo →**](#)
-
-</td>
-<td width="33%" valign="top">
-
-#### 📡 Epidemic Engine
-Streaming pipeline processing **1.2M+ events/day** at sub-second latency built to prove a model can survive real-world scale, not just a notebook. Custom detection logic cut false alerts by **25%**.
-
-<sub>Streaming Data · Low Latency · Production ML</sub>
-
-[**View repo →**](https://github.com/Samritha03/Epidemic-Engine-Real-Time-Event-Enrichment-Risk-Analytics)
-
-</td>
-<td width="33%" valign="top">
-
-#### 🎙️ Match Commentary AI
-Converts raw match footage into human-like commentary by fusing vision models with language generation multilingual audio output shipped end to end. Cut manual commentary production time by **80%**.
-
-<sub>Computer Vision · LLMs · Text-to-Speech</sub>
-
-[**View repo →**](https://github.com/Samritha03/AI-Powered-Cricket-Commentary-Generation)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📈&nbsp; GitHub Activity
-
 <div align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Samritha03&hide_border=true&background=161B22&ring=05BFDB&fire=05BFDB&currStreakLabel=05BFDB&sideLabels=E9FBF8&currStreakNum=E9FBF8&sideNums=E9FBF8&dates=E9FBF8">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samritha03&hide_border=true&background=F3F8F9&ring=0A4552&fire=0A4552&currStreakLabel=0A4552&sideLabels=0A4552&currStreakNum=0A4552&sideNums=0A4552&dates=0A4552" alt="GitHub Streak">
-</picture>
-
-<br><br>
-
-<sub><strong>Samritha's Contribution</strong></sub>
-<br><br>
-<img src="https://ghchart.rshah.org/088395/Samritha03" width="100%" alt="Contribution Graph">
-<br>
-<sub>Less</sub>
-<img src="https://img.shields.io/badge/-%20-EBF3F4?style=flat-square&labelColor=EBF3F4" width="11" height="11" alt="">
-<img src="https://img.shields.io/badge/-%20-B8DCE0?style=flat-square&labelColor=B8DCE0" width="11" height="11" alt="">
-<img src="https://img.shields.io/badge/-%20-7BC0C9?style=flat-square&labelColor=7BC0C9" width="11" height="11" alt="">
-<img src="https://img.shields.io/badge/-%20-3D97A5?style=flat-square&labelColor=3D97A5" width="11" height="11" alt="">
-<img src="https://img.shields.io/badge/-%20-0A4552?style=flat-square&labelColor=0A4552" width="11" height="11" alt="">
-<sub>More</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
-##### 📬 Let's Connect
+#### 🔗 Let's Connect
 
 <a href="mailto:samritha03102001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/samritha-ravikumar-95712624b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
